@@ -82,9 +82,9 @@ python train.py \
 
 ### 随机样本预测结果
 
-![./output/pic/sample.png]()
+![output/pic/sample.png](output/pic/sample.png)
 
 战绩可查 ∠( ᐛ 」∠)_
 
-![./output/pic/record.png]()
+![](./output/pic/record.png)
 
