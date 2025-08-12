@@ -1,0 +1,41 @@
+6.3s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+6.3s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+6.3s 3 0.00s - to python to disable frozen modules.
+6.3s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+7.1s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.1s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.1s 7 0.00s - to python to disable frozen modules.
+7.1s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+33.3s 9 创建数据池...
+46.5s 10 开始训练...
+77.4s 11 0:	learn: 0.8327044	test: 0.8359548	best: 0.8359548 (0)	total: 4.13s	remaining: 2h 17m 26s
+111.5s 12 100:	learn: 0.9882926	test: 0.9885593	best: 0.9885593 (100)	total: 38.2s	remaining: 11m 58s
+144.5s 13 200:	learn: 0.9899361	test: 0.9901731	best: 0.9901779 (199)	total: 1m 11s	remaining: 10m 36s
+174.9s 14 300:	learn: 0.9904606	test: 0.9906351	best: 0.9906351 (300)	total: 1m 41s	remaining: 9m 33s
+204.1s 15 400:	learn: 0.9906744	test: 0.9908211	best: 0.9908211 (400)	total: 2m 10s	remaining: 8m 41s
+232.8s 16 500:	learn: 0.9908396	test: 0.9909238	best: 0.9909270 (497)	total: 2m 39s	remaining: 7m 57s
+262.5s 17 600:	learn: 0.9909479	test: 0.9910281	best: 0.9910345 (595)	total: 3m 9s	remaining: 7m 20s
+292.1s 18 700:	learn: 0.9910694	test: 0.9911259	best: 0.9911259 (698)	total: 3m 38s	remaining: 6m 45s
+321.8s 19 800:	learn: 0.9911668	test: 0.9912045	best: 0.9912045 (800)	total: 4m 8s	remaining: 6m 11s
+352.9s 20 900:	learn: 0.9912394	test: 0.9912478	best: 0.9912527 (884)	total: 4m 39s	remaining: 5m 40s
+384.3s 21 1000:	learn: 0.9912831	test: 0.9913040	best: 0.9913040 (999)	total: 5m 10s	remaining: 5m 10s
+415.7s 22 1100:	learn: 0.9913485	test: 0.9913537	best: 0.9913569 (1094)	total: 5m 42s	remaining: 4m 39s
+446.7s 23 1200:	learn: 0.9914030	test: 0.9913826	best: 0.9913842 (1196)	total: 6m 13s	remaining: 4m 8s
+478.8s 24 1300:	learn: 0.9914520	test: 0.9913986	best: 0.9914018 (1269)	total: 6m 45s	remaining: 3m 37s
+511.0s 25 1400:	learn: 0.9914977	test: 0.9914099	best: 0.9914163 (1397)	total: 7m 17s	remaining: 3m 7s
+543.2s 26 1500:	learn: 0.9915490	test: 0.9914484	best: 0.9914484 (1466)	total: 7m 49s	remaining: 2m 36s
+563.6s 27 bestTest = 0.9914611904
+563.6s 28 bestIteration = 1514
+563.6s 29 Shrink model to first 1515 iterations.
+583.3s 30 模型已保存为: mushroom_classifier.cbm
+602.9s 31 Validation MCC: 0.9828
+602.9s 32 正在保存验证集测试结果...
+648.3s 33 训练完成！结果已保存至 /kaggle/working/submission.csv
+652.1s 34 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+652.1s 35 warn(
+652.1s 36 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+652.4s 37 [NbConvertApp] Writing 9133 bytes to __notebook__.ipynb
+653.7s 38 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+653.7s 39 warn(
+653.7s 40 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+654.4s 41 [NbConvertApp] Writing 298004 bytes to __results__.html

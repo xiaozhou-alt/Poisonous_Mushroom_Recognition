@@ -1,0 +1,242 @@
+MCC Score: 0.9828
+==================================================
+Sample Index: 17560
+True Class: e, Predicted: e (Prob: 0.0023)
+Features:
+  cap-diameter: 3.54
+  stem-height: 5.81
+  stem-width: 7.32
+  cap-shape: x
+  cap-surface: t
+  cap-color: n
+  does-bruise-or-bleed: f
+  gill-attachment: d
+  gill-spacing: c
+  gill-color: o
+  stem-root: b
+  stem-surface: t
+  stem-color: o
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: d
+  season: a
+--------------------------------------------------
+Sample Index: 43784
+True Class: p, Predicted: p (Prob: 0.9969)
+Features:
+  cap-diameter: 3.58
+  stem-height: 5.76
+  stem-width: 3.6
+  cap-shape: x
+  cap-surface: y
+  cap-color: n
+  does-bruise-or-bleed: f
+  gill-attachment: a
+  gill-spacing: c
+  gill-color: w
+  stem-root: b
+  stem-surface: y
+  stem-color: y
+  veil-type: u
+  veil-color: w
+  has-ring: t
+  ring-type: r
+  spore-print-color: k
+  habitat: h
+  season: u
+--------------------------------------------------
+Sample Index: 410274
+True Class: e, Predicted: e (Prob: 0.0019)
+Features:
+  cap-diameter: 5.93
+  stem-height: 6.23
+  stem-width: 9.5
+  cap-shape: f
+  cap-surface: s
+  cap-color: n
+  does-bruise-or-bleed: f
+  gill-attachment: s
+  gill-spacing: c
+  gill-color: w
+  stem-root: b
+  stem-surface: i
+  stem-color: n
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: l
+  season: a
+--------------------------------------------------
+Sample Index: 9307
+True Class: e, Predicted: e (Prob: 0.0079)
+Features:
+  cap-diameter: 8.3
+  stem-height: 4.33
+  stem-width: 12.86
+  cap-shape: f
+  cap-surface: s
+  cap-color: u
+  does-bruise-or-bleed: f
+  gill-attachment: a
+  gill-spacing: c
+  gill-color: w
+  stem-root: b
+  stem-surface: s
+  stem-color: w
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: d
+  season: u
+--------------------------------------------------
+Sample Index: 10720
+True Class: p, Predicted: p (Prob: 0.9897)
+Features:
+  cap-diameter: 5.89
+  stem-height: 7.11
+  stem-width: 9.46
+  cap-shape: x
+  cap-surface: e
+  cap-color: e
+  does-bruise-or-bleed: f
+  gill-attachment: a
+  gill-spacing: c
+  gill-color: w
+  stem-root: b
+  stem-surface: s
+  stem-color: n
+  veil-type: u
+  veil-color: w
+  has-ring: t
+  ring-type: z
+  spore-print-color: k
+  habitat: d
+  season: u
+--------------------------------------------------
+Sample Index: 31174
+True Class: e, Predicted: e (Prob: 0.0009)
+Features:
+  cap-diameter: 3.86
+  stem-height: 5.94
+  stem-width: 7.12
+  cap-shape: f
+  cap-surface: t
+  cap-color: n
+  does-bruise-or-bleed: f
+  gill-attachment: d
+  gill-spacing: c
+  gill-color: o
+  stem-root: b
+  stem-surface: t
+  stem-color: w
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: d
+  season: w
+--------------------------------------------------
+Sample Index: 52000
+True Class: p, Predicted: p (Prob: 0.9995)
+Features:
+  cap-diameter: 1.32
+  stem-height: 3.46
+  stem-width: 5.75
+  cap-shape: s
+  cap-surface: s
+  cap-color: y
+  does-bruise-or-bleed: f
+  gill-attachment: d
+  gill-spacing: c
+  gill-color: y
+  stem-root: b
+  stem-surface: s
+  stem-color: y
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: h
+  season: u
+--------------------------------------------------
+Sample Index: 58689
+True Class: p, Predicted: p (Prob: 0.9949)
+Features:
+  cap-diameter: 9.15
+  stem-height: 5.45
+  stem-width: 12.52
+  cap-shape: s
+  cap-surface: t
+  cap-color: o
+  does-bruise-or-bleed: t
+  gill-attachment: d
+  gill-spacing: c
+  gill-color: o
+  stem-root: b
+  stem-surface: s
+  stem-color: w
+  veil-type: u
+  veil-color: w
+  has-ring: t
+  ring-type: f
+  spore-print-color: k
+  habitat: d
+  season: a
+--------------------------------------------------
+Sample Index: 615471
+True Class: p, Predicted: p (Prob: 0.9975)
+Features:
+  cap-diameter: 1.14
+  stem-height: 3.1
+  stem-width: 1.66
+  cap-shape: x
+  cap-surface: g
+  cap-color: w
+  does-bruise-or-bleed: f
+  gill-attachment: a
+  gill-spacing: d
+  gill-color: w
+  stem-root: b
+  stem-surface: s
+  stem-color: e
+  veil-type: u
+  veil-color: w
+  has-ring: f
+  ring-type: f
+  spore-print-color: k
+  habitat: d
+  season: a
+--------------------------------------------------
+Sample Index: 31117
+True Class: p, Predicted: p (Prob: 0.9981)
+Features:
+  cap-diameter: 8.22
+  stem-height: 8.95
+  stem-width: 14.67
+  cap-shape: x
+  cap-surface: y
+  cap-color: w
+  does-bruise-or-bleed: t
+  gill-attachment: a
+  gill-spacing: c
+  gill-color: n
+  stem-root: s
+  stem-surface: s
+  stem-color: w
+  veil-type: u
+  veil-color: w
+  has-ring: t
+  ring-type: l
+  spore-print-color: k
+  habitat: g
+  season: a
+--------------------------------------------------
