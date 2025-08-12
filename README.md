@@ -6,6 +6,8 @@
 
 本项目使用 CatBoost 梯度提升算法构建了一个蘑菇毒性分类器，能够准确区分可食用(e)和有毒(p)的蘑菇种类。该模型在验证集上达到了高准确率（0.99+），并提供了详细的预测概率输出，可用于野外蘑菇识别辅助决策。
 
+==本次项目的数据来源于kaggle竞赛：[Binary Prediction of Poisonous Mushrooms | Kaggle](https://www.kaggle.com/competitions/playground-series-s4e8/overview)==
+
 
 
 ## 数据集说明
@@ -53,6 +55,24 @@ $$
 
 
 
+## 文件夹目录
+
+```makefile
+Poisonous_Mushroom_Recognition\
+├── README.md  
+├── requirements.txt
+├── train.py 
+├── data\
+    ├── README-data.md          # 数据集说明文档
+├── log\                      # 日志目录
+└── output\ 
+    ├── model\                # 模型保存目录
+    ├── pic\                  # 图片输出目录
+    └── validation_samples.txt  # 验证样本记录文件
+```
+
+
+
 ## 快速开始
 
 ### 环境要求
@@ -88,3 +108,7 @@ python train.py \
 
 ![](./output/pic/record.png)
 
+|      |      |
+| :--- | :--- |
+|      |      |
+|      |      |
